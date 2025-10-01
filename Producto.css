@@ -16,7 +16,7 @@ body {
 /* === HEADER con imagen === */
 header {
     background: url("imgcss/aura1.jpg") no-repeat center center;
-    background-size: cover;
+    background-size: cover; 
     height: 200px;
     position: relative;
 }
